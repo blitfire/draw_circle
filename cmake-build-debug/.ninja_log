@@ -1,0 +1,9 @@
+# ninja log v5
+3	541	1704032442676769876	CMakeFiles/draw_circle.dir/glad.c.o	e18a51d3945017b8
+0	1741	1704032443876769959	CMakeFiles/draw_circle.dir/main.cpp.o	b803d4c3b74b504e
+3	1908	1704032444043436637	CMakeFiles/draw_circle.dir/Circle.cpp.o	f685015be0a55ef7
+541	2163	1704032444300103322	CMakeFiles/draw_circle.dir/Shader.cpp.o	8c3e915fccfcd2cb
+1742	2244	1704032444380103327	CMakeFiles/draw_circle.dir/Display.cpp.o	47596e07ec08bf22
+2244	2362	1704032444496770002	draw_circle	e4947e4660ea6c36
+1	859	1704032522850108724	CMakeFiles/draw_circle.dir/Circle.cpp.o	f685015be0a55ef7
+860	948	1704032522940108731	draw_circle	e4947e4660ea6c36
