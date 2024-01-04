@@ -9,13 +9,11 @@ int main() {
 
     float testCentre[2] = {0.0f, 0.0f};
     float testColour[3] = {0.3f, 0.1f, 0.7f};
-    Circle test {1.0f, testCentre, testColour};
+    Circle test {testCentre, 0.5f, testColour};
 
     while (screen.isOpen()) {
         Display::fill(BACKGROUND_COLOUR);
-
         test.draw();
-
         screen.update();
     }
     return 0;

@@ -24,7 +24,7 @@ private:
 
 
 public:
-    Circle(float radius, const float *centre, const float *pColour);
+    Circle(const float *centre, float radius, const float *pColour);
     void draw();
 
     ~Circle();
